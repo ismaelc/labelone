@@ -1,0 +1,7 @@
+boto3
+numpy
+pandas
+ipywidgets
+tqdm
+Pillow
+jupyterlab_widgets
