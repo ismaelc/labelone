@@ -1,6 +1,6 @@
 # labelone
 
-Simple bounding box viewer for Jupyter
+Simple bounding box viewer for Jupyter. Click [here](https://chrispogeek.medium.com/bounding-box-viewer-widget-for-jupyter-913279265bca) for the blog post.
 
 (Click the image below to watch a short demo)
 
